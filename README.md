@@ -11,7 +11,7 @@
   ╚═══╝  ╚══════╝╚══════╝╚═╝         ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ 
 ```
 
-**A feature-rich Roblox troll/utility script hub — gamepass-locked**
+**A feature-rich Roblox troll/utility script hub**
 
 ![Version](https://img.shields.io/badge/version-v3.0-blueviolet?style=flat-square&logo=roblox)
 ![Lua](https://img.shields.io/badge/language-Lua-blue?style=flat-square&logo=lua)
