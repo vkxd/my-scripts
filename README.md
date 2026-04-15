@@ -27,8 +27,6 @@
 
 **VESP Hub** is a gamepass-gated troll/utility script for Arsenal-based Roblox shooters. It features a sleek, dark-themed UI with real-time notifications, animated tab switching, hover effects, and a comprehensive keybind system — all injected into `CoreGui` for persistence.
 
-> 🔒 **Gamepass Locked** — Only accessible to players who own the gamepass. Unauthorized users cannot load or execute the hub.
-
 ---
 
 ## ✦ Features
@@ -143,7 +141,7 @@ VESP Hub uses three simultaneous methods to minimize death chance:
 
 | Game Type | Compatibility |
 |---|---|
-| Arsenal / Arsenal forks | ✅ Supported |
+| Arsenal / Arsenal forks | ✅ Supported | ⚠️ Some features limited |
 | Standard Roblox FPS | ✅ Supported |
 | Server-sided anti-cheat games | ⚠️ Some features limited |
 | Filtering Enabled games | ✅ Client-side features work |
