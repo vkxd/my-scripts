@@ -107,7 +107,7 @@ The **Aimbot hold key** is separate — it works as a hold-to-activate, not a to
 Paste the script into your Roblox executor and run it:
 
 ```lua
-loadstring(game:HttpGet("YOUR_RAW_LINK_HERE"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vkxd/my-scripts/refs/heads/main/vesp-hub.lua"))()
 ```
 
 ### Method 2 — Local File
