@@ -1,3 +1,4 @@
+<detials>
 <div align="center">
 
 <br/>
@@ -165,3 +166,5 @@ VESP Hub uses three simultaneous methods to minimize death chance:
 ![Made with Lua](https://img.shields.io/badge/made%20with-Lua-blue?style=flat-square&logo=lua)
 
 </div>
+
+</detials>
