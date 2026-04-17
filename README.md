@@ -1,170 +1,138 @@
-<detials>
 <div align="center">
+
+```
+ ██████╗██╗     ██╗███████╗███╗   ██╗████████╗    ███████╗ ██████╗██████╗ ██╗██████╗ ████████╗███████╗
+██╔════╝██║     ██║██╔════╝████╗  ██║╚══██╔══╝    ██╔════╝██╔════╝██╔══██╗██║██╔══██╗╚══██╔══╝██╔════╝
+██║     ██║     ██║█████╗  ██╔██╗ ██║   ██║       ███████╗██║     ██████╔╝██║██████╔╝   ██║   ███████╗
+██║     ██║     ██║██╔══╝  ██║╚██╗██║   ██║       ╚════██║██║     ██╔══██╗██║██╔═══╝    ██║   ╚════██║
+╚██████╗███████╗██║███████╗██║ ╚████║   ██║       ███████║╚██████╗██║  ██║██║██║        ██║   ███████║
+ ╚═════╝╚══════╝╚═╝╚══════╝╚═╝  ╚═══╝   ╚═╝       ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝        ╚═╝   ╚══════╝
+```
+
+**free roblox scripts — use them, enjoy them, don't be weird about it**
+
+![Scripts](https://img.shields.io/badge/scripts-1-blueviolet?style=flat-square)
+![Language](https://img.shields.io/badge/language-Luau-blue?style=flat-square&logo=lua)
+![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)
+![License](https://img.shields.io/badge/license-free-9B59B6?style=flat-square)
+
+</div>
+
+---
+
+## ✦ About
+
+A collection of free Roblox scripts — hubs, utilities, and trolling tools — all built for executor injection. Everything here is free, no paywalls, no Discord nitro gating, no bs.
+
+New scripts get added over time. Each one has its own section below with features, install instructions, and keybinds.
+
+---
+
+## ✦ Scripts
+
+<details>
+<summary><b>🟣 VESP Hub</b> — <i>Lavender & Black Troll/Utility Hub</i></summary>
 
 <br/>
 
 ```
-██╗   ██╗███████╗███████╗██████╗     ██╗  ██╗██╗   ██╗██████╗ 
-██║   ██║██╔════╝██╔════╝██╔══██╗    ██║  ██║██║   ██║██╔══██╗
-██║   ██║█████╗  ███████╗██████╔╝    ███████║██║   ██║██████╔╝
-╚██╗ ██╔╝██╔══╝  ╚════██║██╔═══╝     ██╔══██║██║   ██║██╔══██╗
- ╚████╔╝ ███████╗███████║██║         ██║  ██║╚██████╔╝██████╔╝
-  ╚═══╝  ╚══════╝╚══════╝╚═╝         ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ 
+██╗   ██╗███████╗███████╗██████╗ 
+██║   ██║██╔════╝██╔════╝██╔══██╗
+██║   ██║█████╗  ███████╗██████╔╝
+╚██╗ ██╔╝██╔══╝  ╚════██║██╔═══╝ 
+ ╚████╔╝ ███████╗███████║██║     
+  ╚═══╝  ╚══════╝╚══════╝╚═╝     
 ```
 
-**A feature-rich Roblox troll/utility script hub**
-
-![Version](https://img.shields.io/badge/version-v3.0-blueviolet?style=flat-square&logo=roblox)
-![Lua](https://img.shields.io/badge/language-Lua-blue?style=flat-square&logo=lua)
-![Game](https://img.shields.io/badge/game-Arsenal%20%2F%20FPS-orange?style=flat-square)
-![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)
-![License](https://img.shields.io/badge/license-private-red?style=flat-square)
-
-</div>
+> A sleek lavender & black hub. Tracers, 3D boxes, aimbot, and more to come. Drag the window, bind your keys, go cook.
 
 ---
 
-## ✦ Overview
-
-**VESP Hub** is a gamepass-gated troll/utility script for Arsenal-based Roblox shooters. It features a sleek, dark-themed UI with real-time notifications, animated tab switching, hover effects, and a comprehensive keybind system — all injected into `CoreGui` for persistence.
-
----
-
-## ✦ Features
-
-### 🎯 Combat
-| Feature | Description |
-|---|---|
-| **Aimbot** | Locks onto the nearest enemy head within FOV range |
-| **Aim Smoothing** | Adjustable 1–100% lerp speed — from instant snap to silky smooth |
-| **FOV Circle** | Visual circle showing your current aimbot detection radius |
-| **Trigger Bot** | Automatically clicks when your crosshair is over an enemy |
-| **Big Head** | Expands enemy head hitboxes for easier kills |
-
-### 👁️ Visuals
-| Feature | Description |
-|---|---|
-| **ESP Chams** | Highlight all enemies through walls with theme color |
-| **Tracers** | Draws lines from screen center to all visible enemies |
-| **Name Tags** | Billboard name + color-coded HP bars above enemy heads |
-| **Fullbright** | Removes fog and shadows, maximizes world brightness |
-
-### 🏃 Movement
-| Feature | Description |
-|---|---|
-| **Speed Boost** | Toggle boosted WalkSpeed — resets to game's original on disable |
-| **Jump Boost** | Toggle boosted JumpPower — resets to game's original on disable |
-| **Fly** | Full WASD + Space/Shift 6DoF flight |
-| **Noclip** | Walk through any solid geometry |
-| **No Fall Damage** | Disables ragdoll and fall death states |
-| **Low Gravity** | Halves workspace gravity for floaty movement |
-
-### 🧍 Player
-| Feature | Description |
-|---|---|
-| **God Mode** | Attempts ForceField + MaxHealth loop + local script disabling |
-| **Invisible** | Makes your entire character transparent to others |
-| **Anti-AFK** | Sends periodic inputs to prevent auto-kick |
-| **Chat Spam** | Sends a custom message repeatedly in all chat |
-| **Respawn** | Instantly breaks your character joints to force respawn |
-| **Server Hop** | Finds and teleports to a new public server |
-| **Rejoin** | Quickly rejoins your current place |
-| **Infinite Yield** | One-click loader for the Infinite Yield admin script |
-
----
-
-## ✦ UI Highlights
-
-- **Dark glassmorphic theme** with `#B482FF` accent color
-- **5-tab layout** — Combat / Visuals / Move / Player / Config
-- **Toast notifications** — pop up bottom-right when toggling features
-- **Active feature counter** — live count in the header
-- **Animated tab indicators** with smooth transitions
-- **Hover glow effects** on every interactive element
-- **Draggable window** — click and drag the header
-- **Hide toggle** — `Left Alt` smoothly collapses the window
-
----
-
-## ✦ Keybind System
-
-Every feature has an assignable keybind in the **Config** tab.
-
-1. Open the **Config** tab
-2. Click the `—` button next to any feature
-3. Press any key or mouse button to assign it
-4. Press `Escape` or `Backspace` to clear the bind
-5. Your assigned key will **toggle** that feature on/off in real-time
-
-The **Aimbot hold key** is separate — it works as a hold-to-activate, not a toggle.
-
----
-
-## ✦ Installation
-
-### Method 1 — Direct Execute
-Paste the script into your Roblox executor and run it:
+### ⚡ Install
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/vkxd/my-scripts/refs/heads/main/vesp-hub.lua"))()
+-- paste into your executor and run
+loadstring(game:HttpGet("https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/vesp-hub.lua"))()
 ```
 
-### Method 2 — Local File
-Save `vesp-hub.lua` and execute it directly through your executor's file loader.
+Or load the file directly through your executor's file loader.
 
 ---
 
-## ✦ Keybinds (Defaults)
+### 🎯 Features
 
-| Action | Default Bind |
+#### Combat
+| Feature | Description |
 |---|---|
-| Hide / Show UI | `Left Alt` |
-| Aimbot Hold | `Right Mouse Button` |
-| All others | Unbound (set in Config) |
+| **Aimbot** | Hold RMB to lock onto the nearest player's HumanoidRootPart |
+| **Aim Smoothing** | Lerp-based — silky, not snappy |
+| **FOV Circle** | Visual ring showing detection radius *(coming soon)* |
 
----
-
-## ✦ Notes on God Mode
-
-> Arsenal and Arsenal-based games process **all damage server-side**. Health is changed by the server and replicated to the client — which means no client-side script can truly prevent incoming damage.
-
-VESP Hub uses three simultaneous methods to minimize death chance:
-
-1. `MaxHealth = math.huge` + `Health = math.huge` loop
-2. Invisible `ForceField` parented to your character
-3. Attempts to disable local damage scripts
-
-**Recommended strategy:** Combine Aimbot + Trigger Bot + Big Head to eliminate enemies before they can kill you.
-
----
-
-## ✦ Compatibility
-
-| Game Type | Compatibility |
+#### Visuals
+| Feature | Description |
 |---|---|
-| Arsenal / Arsenal forks | ✅ Supported | ⚠️ Some features limited |
-| Standard Roblox FPS | ✅ Supported |
-| Server-sided anti-cheat games | ⚠️ Some features limited |
-| Filtering Enabled games | ✅ Client-side features work |
+| **ESP** | See all players through walls |
+| **Tracers** | Lines from screen bottom-center to each player |
+| **3D Boxes** | Full 3D bounding box rendered around each player's hitbox |
+| **Tracer Color** | Hue / Saturation / Brightness color picker |
+| **Box Color** | Independent color picker for boxes |
 
 ---
 
-## ✦ Tech Stack
+### ⌨️ Keybinds
 
-- **Language:** Lua (Roblox Luau)
-- **Rendering:** `RunService.RenderStepped` for frame-perfect loops
-- **Drawing:** Roblox `Drawing` API for tracers & FOV circle
-- **UI:** `CoreGui` injection with `TweenService` animations
-- **Input:** `UserInputService` for all keybind and drag logic
+| Action | Bind |
+|---|---|
+| Show / Hide UI | `Right Alt` |
+| Aimbot (hold) | `Right Mouse Button` |
+
+---
+
+### 🛠️ Compatibility
+
+| Executor | Status |
+|---|---|
+| Xeno | ✅ |
+| Wave | ✅ |
+| Solara | ✅ |
+| Any executor with `Drawing` API | ✅ |
+
+---
+
+### 📋 Notes
+
+- UI is injected into `CoreGui` — persists through respawns
+- `Drawing` API is required for ESP/tracers — all major executors support it
+- Aimbot is client-side only; the camera lerps toward the target while RMB is held
+- More features (Trigger Bot, Name Tags, Speed, Fly, etc.) coming in future updates
+
+---
+
+</details>
+
+---
+
+## ✦ General Notes
+
+- All scripts are **client-side** — they do not bypass server-sided anti-cheats
+- Features that modify movement, health, etc. are local unless the game is unfiltered
+- Use at your own risk — I'm not responsible for bans
+- Feel free to fork, modify, or use pieces in your own scripts
+
+---
+
+## ✦ Roadmap
+
+- [x] VESP Hub v1 — ESP, Tracers, 3D Boxes, Aimbot, Trigger Bot, Name Tags, Speed, Fly, Noclip
+- [ ] FUSION Hub v1 - Insane client side exploits, macros
+- [ ] Second script (TBD)
 
 ---
 
 <div align="center">
 
-**VESP Hub** — *built for those who already won*
+made for fun · kept free · built different
 
-![Made with Lua](https://img.shields.io/badge/made%20with-Lua-blue?style=flat-square&logo=lua)
+![Made with Lua](https://img.shields.io/badge/made%20with-Luau-blueviolet?style=flat-square&logo=lua)
 
 </div>
-
-</detials>
