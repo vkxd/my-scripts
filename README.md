@@ -52,7 +52,7 @@ New scripts get added over time. Each one has its own section below with feature
 
 ```lua
 -- paste into your executor and run
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/vesp-hub.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vkxd/my-scripts/main/vesp-hub.lua"))()
 ```
 
 Or load the file directly through your executor's file loader.
